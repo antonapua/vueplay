@@ -1,4 +1,4 @@
-# vue-cli
+# stocks
 
 > A Vue.js project
 
